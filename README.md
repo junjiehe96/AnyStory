@@ -72,6 +72,7 @@ image.save("output_2.png")
 ## Applications
 
 Intelligent creation of AI story pictures with [Qwen](https://github.com/QwenLM/Qwen3) Agent
+
 <img src='assets/storyboard_en.png'>
 
 AI Animation Video Production with [Wan](https://github.com/Wan-Video/Wan2.1) Image-to-Video
