@@ -16,7 +16,7 @@ personalization for single subjects, but also for multiple subjects, without sac
 
 ## News
 
-- [2025/05/01] 🚀 We release the code and demo for the `FLUX.1-dev` version of Anystory.
+- [2025/05/01] 🚀 We release the code and demo for the `FLUX.1-dev` version of AnyStory.
 
 ## Usage
 
