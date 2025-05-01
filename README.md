@@ -10,8 +10,7 @@
 
 <img src='assets/examples-sdxl.jpg'>
 
-AnyStory is a unified approach for personalized subject generation. It not only achieves high-fidelity
-personalization for single subjects, but also for multiple subjects, without sacrificing subject fidelity.
+AnyStory is a unified approach for personalized subject generation. It not only achieves high-fidelity personalization for single subjects, but also for multiple subjects, without sacrificing subject fidelity.
 
 ---
 
@@ -99,7 +98,7 @@ Example output:
 
 ## Applications
 
-Intelligent creation of AI story pictures with [Qwen](https://github.com/QwenLM/Qwen3) Agent (refer to `storyboard.py`)
+Intelligent creation of AI story pictures with [Qwen](https://github.com/QwenLM/Qwen3) Agent (please refer to `storyboard.py`)
 
 <img src='assets/storyboard_en.png'>
 
