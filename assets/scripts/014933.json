@@ -1,0 +1,89 @@
+{
+  "故事梗概": "狮子王辛巴成长",
+  "角色表": [
+    {
+      "角色名": "辛巴",
+      "简单描述": "一只小狮子，毛发金黄，眼睛明亮有神。",
+      "alias": "ROLE-A",
+      "simple_prompt": "A little lion with golden hair and bright eyes full of spirit."
+    },
+    {
+      "角色名": "木法沙",
+      "简单描述": "一头威严的雄狮，鬃毛浓密，目光深邃。",
+      "alias": "ROLE-B",
+      "simple_prompt": "A majestic male lion with thick mane and profound gaze."
+    }
+  ],
+  "分镜头": [
+    {
+      "序号": 1,
+      "出场角色": [
+        "辛巴",
+        "木法沙"
+      ],
+      "旁白": "木法沙带着年轻的辛巴来到荣耀石，向他展示未来的王国。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "辛巴站在高处，仰头看着木法沙，表情兴奋；木法沙低头俯视辛巴，双爪轻放在辛巴肩膀上。晨光洒在一片广袤的草原上，远处群山连绵，天空中有几只飞鸟掠过。",
+      "prompt": "ROLE-A stands at a high place, looking up at ROLE-B with an excited expression; ROLE-B looks down at ROLE-A, placing his claws lightly on ROLE-A's shoulders. The morning light falls on a vast grassland, with distant mountains and a few flying birds in the sky."
+    },
+    {
+      "序号": 2,
+      "出场角色": [
+        "辛巴",
+        "木法沙"
+      ],
+      "旁白": "父子俩一起漫步在森林中，辛巴对世界充满了无尽的好奇。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "辛巴跳跃着跑在前面，回头望向木法沙；木法沙慢步跟随，嘴角微微扬起。一条蜿蜒的小溪穿过森林，溪水清澈见底，岸边点缀着野花和青草。",
+      "prompt": "ROLE-A jumps and runs ahead, looking back at ROLE-B; ROLE-B follows slowly, with a slight smile at the corner of his mouth. A winding stream crosses the forest, the water is crystal clear, and wildflowers and grasses dot the banks."
+    },
+    {
+      "序号": 3,
+      "出场角色": [
+        "辛巴",
+        "木法沙"
+      ],
+      "旁白": "木法沙教辛巴如何通过大地的声音感知周围的动静。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "辛巴趴在地上，耳朵贴着地面倾听；木法沙站立一旁，用尾巴轻轻拍打辛巴的背。一片开阔的平原，风吹动着草浪，远处可以看到成群的角马正在迁徙。",
+      "prompt": "ROLE-A lies on the ground, ears close to the ground listening; ROLE-B stands beside him, gently patting ROLE-A's back with his tail. An open plain stretches out, with the wind moving the waves of grass, and in the distance, herds of wildebeest can be seen migrating."
+    },
+    {
+      "序号": 4,
+      "出场角色": [
+        "辛巴",
+        "木法沙"
+      ],
+      "旁白": "尽管还很稚嫩，但辛巴已经开始学习作为王者的责任。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "辛巴试图模仿木法沙的吼叫，张大嘴巴但声音微弱；木法沙侧耳倾听后露出慈爱的笑容。夕阳染红了天际，荣耀石矗立在背景中，周围是静谧的草原。",
+      "prompt": "ROLE-A tries to imitate ROLE-B's roar, opening his mouth wide but producing a weak sound; after listening carefully, ROLE-B shows a loving smile. The sunset colors the horizon red, with the Pride Rock standing in the background, surrounded by a tranquil savanna."
+    },
+    {
+      "序号": 5,
+      "出场角色": [
+        "辛巴",
+        "木法沙"
+      ],
+      "旁白": "一天的学习结束，辛巴在父亲的守护下进入梦乡。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "辛巴依偎在木法沙身旁，闭上眼睛打瞌睡；木法沙低头注视辛巴，用鼻子轻轻蹭了蹭他的额头。夜晚星空璀璨，月光洒在一片宁静的灌木丛间，萤火虫闪烁其间。",
+      "prompt": "ROLE-A cuddles up next to ROLE-B, closing his eyes to take a nap; ROLE-B looks down at ROLE-A, gently nudging his forehead with his nose. The night sky sparkles with stars, moonlight falls on a peaceful bush area, with fireflies flickering among them."
+    }
+  ]
+}

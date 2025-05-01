@@ -12,6 +12,7 @@
 
 AnyStory is a unified approach for personalized subject generation. It not only achieves high-fidelity
 personalization for single subjects, but also for multiple subjects, without sacrificing subject fidelity.
+
 ---
 
 ## News
@@ -69,9 +70,36 @@ image = story_pipe.generate(prompt=prompt,
 image.save("output_2.png")
 ```
 
+### Storyboard generation
+
+```python
+import json
+from storyboard import StoryboardPipeline
+
+storyboard_pipe = StoryboardPipeline()
+
+script_dict = json.load(open("assets/scripts/013420.json"))
+print(script_dict)
+results = storyboard_pipe(script_dict, style_name="Comic book")
+for key, result in results.items():
+    result.save(f"output_1_{key}.png")
+
+# 狮子王辛巴成长
+script_dict = json.load(open("assets/scripts/014933.json"))
+print(script_dict)
+results = storyboard_pipe(script_dict, style_name="Japanese Anime")
+for key, result in results.items():
+    result.save(f"output_2_{key}.png")
+```
+
+Example output:
+
+<img src='assets/scripts/013420_result.jpg'>
+<img src='assets/scripts/014933_result.jpg'>
+
 ## Applications
 
-Intelligent creation of AI story pictures with [Qwen](https://github.com/QwenLM/Qwen3) Agent
+Intelligent creation of AI story pictures with [Qwen](https://github.com/QwenLM/Qwen3) Agent (refer to `storyboard.py`)
 
 <img src='assets/storyboard_en.png'>
 

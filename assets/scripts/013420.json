@@ -1,0 +1,89 @@
+{
+  "故事梗概": "杨戬劈桃山",
+  "角色表": [
+    {
+      "角色名": "杨戬",
+      "简单描述": "一名英俊男子，身披银色铠甲，手持三尖两刃刀。",
+      "alias": "ROLE-A",
+      "simple_prompt": "A handsome man, wearing silver armor and holding a three-pronged double-edged knife."
+    },
+    {
+      "角色名": "桃山",
+      "简单描述": "一座巨大的桃形山峰，表面布满裂纹，散发出神秘气息。",
+      "alias": "ROLE-B",
+      "simple_prompt": "A huge peach-shaped mountain peak, covered with cracks on its surface, emitting a mysterious aura."
+    }
+  ],
+  "分镜头": [
+    {
+      "序号": 1,
+      "出场角色": [
+        "杨戬",
+        "桃山"
+      ],
+      "旁白": "杨戬来到桃山之下，决心劈开这座阻挡他前行的大山。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "杨戬站立在桃山脚下，侧对镜头，双手紧握三尖两刃刀，目光坚毅。桃山巍峨耸立，静默无言。一片荒凉的平原，天空乌云密布，远处雷声滚滚，风沙飞扬。",
+      "prompt": "ROLE-A stands at the foot of ROLE-B, facing sideways to the camera, tightly gripping a three-pronged double-edged blade with a resolute gaze. ROLE-B towers majestically, silent and motionless. A desolate plain stretches out, with dark clouds covering the sky, distant thunder rolling, and sand flying in the wind."
+    },
+    {
+      "序号": 2,
+      "出场角色": [
+        "杨戬",
+        "桃山"
+      ],
+      "旁白": "杨戬挥舞神兵利器，准备用全力劈开桃山。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "杨戬举起三尖两刃刀，面向镜头，全身肌肉紧绷，发出怒吼。桃山开始震动，裂缝扩大。地面尘土飞扬，周围空气因力量波动而扭曲变形。",
+      "prompt": "ROLE-A raises the three-pronged double-edged blade, facing the camera, muscles tense throughout the body, emitting a roar. ROLE-B begins to shake, cracks widening. Dust flies from the ground, and the surrounding air distorts due to power fluctuations."
+    },
+    {
+      "序号": 3,
+      "出场角色": [
+        "杨戬",
+        "桃山"
+      ],
+      "旁白": "杨戬腾空而起，凝聚全身力量，向桃山发起致命一击。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "杨戬跃至半空，背对镜头，双臂高举三尖两刃刀，气势磅礴。桃山被金光笼罩，摇摇欲坠。天空电闪雷鸣，乌云翻滚，一道闪电划破天际。",
+      "prompt": "ROLE-A leaps into the air, back facing the camera, arms high above holding the three-pronged double-edged blade, exuding an overwhelming momentum. ROLE-B is enveloped by a golden light, swaying precariously. The sky flashes with lightning and thunder, dark clouds rolling as a bolt of lightning splits the horizon."
+    },
+    {
+      "序号": 4,
+      "出场角色": [
+        "杨戬",
+        "桃山"
+      ],
+      "旁白": "一声巨响，桃山终于承受不住杨戬的力量，开始崩塌。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "杨戬从空中落下，正对镜头，三尖两刃刀狠狠劈下。桃山剧烈晃动，裂缝贯穿整个山体。大地震颤，碎石四溅，狂风呼啸而过。",
+      "prompt": "ROLE-A descends from the air, directly facing the camera, forcefully striking down with the three-pronged double-edged blade. ROLE-B shakes violently, cracks spanning the entire mountain body. The earth trembles, rocks shatter and scatter, and fierce winds howl past."
+    },
+    {
+      "序号": 5,
+      "出场角色": [
+        "杨戬",
+        "桃山"
+      ],
+      "旁白": "桃山被成功劈开，杨戬完成了他的使命，但战斗的代价让他疲惫不堪。",
+      "act_roles": [
+        "ROLE-A",
+        "ROLE-B"
+      ],
+      "场景描述": "杨戬站在废墟之中，侧对镜头，喘息未定，三尖两刃刀插在地上。桃山已化为无数碎块，散落四周。战场恢复平静，夕阳西下，余晖洒在破碎的山石上。",
+      "prompt": "ROLE-A stands amidst the ruins, side-facing the camera, still catching their breath, the three-pronged double-edged blade planted firmly on the ground. ROLE-B has turned into countless fragments, scattered around. The battlefield returns to tranquility, the sun setting in the west, its afterglow casting over the broken stones."
+    }
+  ]
+}

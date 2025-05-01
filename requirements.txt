@@ -1,0 +1,9 @@
+diffusers
+gradio
+huggingface_hub
+numpy
+peft
+Pillow
+torch
+torchvision
+transformers
