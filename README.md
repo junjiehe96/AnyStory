@@ -77,6 +77,7 @@ from storyboard import StoryboardPipeline
 
 storyboard_pipe = StoryboardPipeline()
 
+storyboard_pipe.new_story()
 script_dict = json.load(open("assets/scripts/013420.json"))
 print(script_dict)
 results = storyboard_pipe(script_dict, style_name="Comic book")
@@ -84,6 +85,7 @@ for key, result in results.items():
     result.save(f"output_1_{key}.png")
 
 # 狮子王辛巴成长
+storyboard_pipe.new_story()
 script_dict = json.load(open("assets/scripts/014933.json"))
 print(script_dict)
 results = storyboard_pipe(script_dict, style_name="Japanese Anime")
@@ -103,6 +105,8 @@ Intelligent creation of AI story pictures with [Qwen](https://github.com/QwenLM/
 <img src='assets/storyboard_en.png'>
 
 AI Animation Video Production with [Wan](https://github.com/Wan-Video/Wan2.1) Image-to-Video
+
+(please refer to [`assets/example_videos`](assets/example_videos))
 
 ## **Acknowledgements**
 
